@@ -23,10 +23,6 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://upptime.github.io/upptime)
+**Status:** https://flamableassassin.github.io/status/
 
-## 📄 License
-
-- Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Upptime](https://upptime.js.org)
-- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+Powered by: [Upptime](https://github.com/upptime/upptime)
