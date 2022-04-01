@@ -64,9 +64,9 @@
     "url": "https://not.a-file.host",
     "icon": "https://favicons.githubusercontent.com/not.a-file.host",
     "slug": "not-a-file-host",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,6 +75,8 @@
     "timeWeek": 551,
     "timeMonth": 585,
     "timeYear": 617,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-01": 0
+    }
   }
 ]
