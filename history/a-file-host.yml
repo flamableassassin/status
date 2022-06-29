@@ -1,7 +1,7 @@
 url: https://a-file.host
-status: down
-code: 403
-responseTime: 117
-lastUpdated: 2022-06-29T21:27:50.681Z
+status: up
+code: 200
+responseTime: 349
+lastUpdated: 2022-06-29T21:41:51.719Z
 startTime: Mon Nov 22 2021 14:57:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
