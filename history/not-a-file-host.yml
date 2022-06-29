@@ -1,7 +1,7 @@
 url: https://not.a-file.host
-status: up
-code: 200
-responseTime: 381
-lastUpdated: 2022-06-28T23:18:10.820Z
+status: down
+code: 403
+responseTime: 71
+lastUpdated: 2022-06-29T04:31:31.915Z
 startTime: Mon Nov 22 2021 14:57:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
