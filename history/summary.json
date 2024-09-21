@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/a-file.host.ico",
     "slug": "a-file-host",
     "status": "down",
-    "uptime": "64.75%",
+    "uptime": "64.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.25%",
+    "uptimeYear": "0.22%",
     "time": 95,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 87,
+    "timeYear": 88,
     "dailyMinutesDown": {
-      "2024-09-20": 1364,
+      "2024-09-21": 97,
+      "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
@@ -379,8 +380,7 @@
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
-      "2023-09-23": 1440,
-      "2023-09-22": 181
+      "2023-09-23": 1440
     }
   },
   {
@@ -395,13 +395,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 109,
-    "timeDay": 137,
+    "timeDay": 99,
     "timeWeek": 146,
-    "timeMonth": 114,
+    "timeMonth": 113,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2023-09-23": 777,
-      "2023-09-22": 180
+      "2023-09-23": 777
     }
   },
   {
@@ -411,22 +410,20 @@
     "slug": "highlyflammable-tech-services",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 445,
-    "timeDay": 453,
-    "timeWeek": 416,
+    "timeDay": 484,
+    "timeWeek": 425,
     "timeMonth": 416,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2024-09-20": 9,
       "2024-07-20": 93,
       "2024-06-05": 19,
       "2023-11-27": 16,
-      "2023-09-23": 777,
-      "2023-09-22": 180
+      "2023-09-23": 777
     }
   },
   {
@@ -435,18 +432,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/not.a-file.host.ico",
     "slug": "not-a-file-host",
     "status": "down",
-    "uptime": "64.75%",
+    "uptime": "64.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.25%",
-    "time": 381,
+    "uptimeYear": "0.22%",
+    "time": 380,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 86,
+    "timeYear": 81,
     "dailyMinutesDown": {
-      "2024-09-20": 1364,
+      "2024-09-21": 97,
+      "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
@@ -809,8 +807,7 @@
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
-      "2023-09-23": 1440,
-      "2023-09-22": 180
+      "2023-09-23": 1440
     }
   }
 ]
