@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a-file.host.ico",
     "slug": "a-file-host",
     "status": "down",
-    "uptime": "62.56%",
+    "uptime": "62.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 67,
     "dailyMinutesDown": {
-      "2024-10-27": 108,
+      "2024-10-28": 107,
+      "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -379,8 +380,7 @@
       "2023-11-02": 1440,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
-      "2023-10-30": 1440,
-      "2023-10-29": 1440
+      "2023-10-30": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 116,
-    "timeWeek": 120,
-    "timeMonth": 122,
+    "timeDay": 149,
+    "timeWeek": 127,
+    "timeMonth": 124,
     "timeYear": 108,
     "dailyMinutesDown": {}
   },
@@ -413,10 +413,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 444,
-    "timeDay": 387,
-    "timeWeek": 403,
-    "timeMonth": 445,
-    "timeYear": 443,
+    "timeDay": 604,
+    "timeWeek": 435,
+    "timeMonth": 453,
+    "timeYear": 444,
     "dailyMinutesDown": {
       "2024-07-20": 93,
       "2024-06-05": 19,
@@ -429,18 +429,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/not.a-file.host.ico",
     "slug": "not-a-file-host",
     "status": "down",
-    "uptime": "62.56%",
+    "uptime": "62.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 345,
+    "time": 344,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 66,
     "dailyMinutesDown": {
-      "2024-10-27": 108,
+      "2024-10-28": 107,
+      "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -803,8 +804,7 @@
       "2023-11-02": 1440,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
-      "2023-10-30": 1440,
-      "2023-10-29": 1440
+      "2023-10-30": 1440
     }
   }
 ]
