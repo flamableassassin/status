@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a-file.host.ico",
     "slug": "a-file-host",
     "status": "down",
-    "uptime": "58.88%",
+    "uptime": "58.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-02": 101,
+      "2025-01-03": 102,
+      "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -379,8 +380,7 @@
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
-      "2024-01-05": 1440,
-      "2024-01-04": 1440
+      "2024-01-05": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 112,
-    "timeWeek": 109,
-    "timeMonth": 104,
+    "timeDay": 100,
+    "timeWeek": 107,
+    "timeMonth": 103,
     "timeYear": 112,
     "dailyMinutesDown": {}
   },
@@ -413,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 444,
-    "timeDay": 405,
-    "timeWeek": 399,
-    "timeMonth": 411,
+    "timeDay": 359,
+    "timeWeek": 397,
+    "timeMonth": 410,
     "timeYear": 433,
     "dailyMinutesDown": {
       "2024-07-20": 93,
@@ -428,18 +428,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/not.a-file.host.ico",
     "slug": "not-a-file-host",
     "status": "down",
-    "uptime": "58.87%",
+    "uptime": "58.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 198,
+    "time": 194,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-02": 101,
+      "2025-01-03": 102,
+      "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -802,8 +803,7 @@
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
-      "2024-01-05": 1440,
-      "2024-01-04": 1440
+      "2024-01-05": 1440
     }
   }
 ]
