@@ -1,7 +1,7 @@
 url: http://s.highlyflammable.tech
-status: up
-code: 200
-responseTime: 413
-lastUpdated: 2025-09-22T23:17:53.996Z
+status: down
+code: 503
+responseTime: 367
+lastUpdated: 2025-09-23T20:27:29.913Z
 startTime: 2021-11-22T14:57:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
