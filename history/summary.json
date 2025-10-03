@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-03": 1140,
+      "2025-10-03": 1158,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
@@ -388,19 +388,19 @@
     "url": "http://highlyflammable.tech",
     "icon": "https://icons.duckduckgo.com/ip3/highlyflammable.tech.ico",
     "slug": "highlyflammable-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 499,
-    "timeWeek": 528,
-    "timeMonth": 270,
+    "timeDay": 374,
+    "timeWeek": 491,
+    "timeMonth": 266,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-10-03": 0
+      "2025-10-03": 19
     }
   },
   {
@@ -443,7 +443,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-03": 1140,
+      "2025-10-03": 1158,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
