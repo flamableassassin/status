@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a-file.host.ico",
     "slug": "a-file-host",
     "status": "down",
-    "uptime": "45.23%",
+    "uptime": "45.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-11": 125,
+      "2025-12-12": 125,
+      "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -379,8 +380,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-12-13": 1440,
-      "2024-12-12": 1440
+      "2024-12-13": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 159,
-    "timeDay": 130,
-    "timeWeek": 111,
-    "timeMonth": 155,
+    "timeDay": 149,
+    "timeWeek": 115,
+    "timeMonth": 153,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2025-11-18": 50,
@@ -416,10 +416,10 @@
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.93%",
     "time": 557,
-    "timeDay": 601,
-    "timeWeek": 480,
-    "timeMonth": 507,
-    "timeYear": 613,
+    "timeDay": 544,
+    "timeWeek": 488,
+    "timeMonth": 508,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2025-12-09": 36,
       "2025-12-08": 161,
@@ -435,7 +435,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/not.a-file.host.ico",
     "slug": "not-a-file-host",
     "status": "down",
-    "uptime": "45.22%",
+    "uptime": "45.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -446,7 +446,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-11": 125,
+      "2025-12-12": 125,
+      "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -809,8 +810,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-12-13": 1440,
-      "2024-12-12": 1440
+      "2024-12-13": 1440
     }
   }
 ]
