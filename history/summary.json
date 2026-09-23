@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a-file.host.ico",
     "slug": "a-file-host",
     "status": "down",
-    "uptime": "37.92%",
+    "uptime": "37.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-22": 260,
+      "2026-09-23": 257,
+      "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
       "2026-09-19": 1440,
@@ -379,8 +380,7 @@
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
-      "2025-09-24": 1440,
-      "2025-09-23": 1440
+      "2025-09-24": 1440
     }
   },
   {
@@ -394,10 +394,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 169,
-    "timeDay": 210,
-    "timeWeek": 214,
-    "timeMonth": 181,
+    "time": 170,
+    "timeDay": 191,
+    "timeWeek": 201,
+    "timeMonth": 182,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2025-10-03": 19,
@@ -416,12 +416,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 560,
-    "timeDay": 405,
-    "timeWeek": 538,
-    "timeMonth": 493,
+    "timeDay": 522,
+    "timeWeek": 535,
+    "timeMonth": 495,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2025-09-23": 45,
       "2025-12-08": 161,
       "2025-12-09": 36,
       "2026-01-11": 142,
@@ -435,7 +434,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/not.a-file.host.ico",
     "slug": "not-a-file-host",
     "status": "down",
-    "uptime": "37.92%",
+    "uptime": "37.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -446,7 +445,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-22": 260,
+      "2026-09-23": 258,
+      "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
       "2026-09-19": 1440,
@@ -809,8 +809,7 @@
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
-      "2025-09-24": 1440,
-      "2025-09-23": 1440
+      "2025-09-24": 1440
     }
   }
 ]
