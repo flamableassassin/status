@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a-file.host.ico",
     "slug": "a-file-host",
     "status": "down",
-    "uptime": "36.81%",
+    "uptime": "36.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-14": 351,
+      "2026-11-14": 1353,
       "2026-11-13": 1440,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
@@ -408,10 +408,10 @@
     "url": "http://s.highlyflammable.tech",
     "icon": "https://icons.duckduckgo.com/ip3/s.highlyflammable.tech.ico",
     "slug": "highlyflammable-tech-services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 566,
@@ -424,7 +424,8 @@
       "2025-12-09": 36,
       "2026-01-11": 142,
       "2026-01-20": 39,
-      "2026-04-20": 82
+      "2026-04-20": 82,
+      "2026-11-14": 1
     }
   },
   {
@@ -433,7 +434,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/not.a-file.host.ico",
     "slug": "not-a-file-host",
     "status": "down",
-    "uptime": "36.81%",
+    "uptime": "36.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -444,7 +445,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-14": 351,
+      "2026-11-14": 1354,
       "2026-11-13": 1440,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
