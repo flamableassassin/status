@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a-file.host.ico",
     "slug": "a-file-host",
     "status": "down",
-    "uptime": "36.73%",
+    "uptime": "36.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-18": 413,
+      "2026-11-19": 414,
+      "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -379,8 +380,7 @@
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
-      "2025-11-20": 1440,
-      "2025-11-19": 1440
+      "2025-11-20": 1440
     }
   },
   {
@@ -393,11 +393,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 324,
-    "timeWeek": 203,
-    "timeMonth": 179,
+    "timeDay": 218,
+    "timeWeek": 206,
+    "timeMonth": 182,
     "timeYear": 148,
     "dailyMinutesDown": {}
   },
@@ -407,15 +407,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.highlyflammable.tech.ico",
     "slug": "highlyflammable-tech-services",
     "status": "down",
-    "uptime": "99.73%",
+    "uptime": "99.68%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "52.18%",
-    "uptimeMonth": "89.00%",
-    "uptimeYear": "99.00%",
+    "uptimeWeek": "37.89%",
+    "uptimeMonth": "85.71%",
+    "uptimeYear": "98.72%",
     "time": 567,
     "timeDay": 0,
-    "timeWeek": 478,
-    "timeMonth": 512,
+    "timeWeek": 485,
+    "timeMonth": 509,
     "timeYear": 545,
     "dailyMinutesDown": {
       "2025-12-08": 161,
@@ -423,7 +423,8 @@
       "2026-01-11": 142,
       "2026-01-20": 39,
       "2026-04-20": 82,
-      "2026-11-18": 413,
+      "2026-11-19": 414,
+      "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -436,7 +437,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/not.a-file.host.ico",
     "slug": "not-a-file-host",
     "status": "down",
-    "uptime": "36.73%",
+    "uptime": "36.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -447,7 +448,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-18": 413,
+      "2026-11-19": 414,
+      "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -810,8 +812,7 @@
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
-      "2025-11-20": 1440,
-      "2025-11-19": 1440
+      "2025-11-20": 1440
     }
   }
 ]
